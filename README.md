@@ -1,4 +1,4 @@
-Show tooltips on your web pages using <strong>data-tooltip</strong> attribute on different elements.
+Show tooltips on your web pages using **data-tooltip** attribute on different elements.
 ```
 <div data-tooltip='{"text":"This is a div"}'>Hover over me</div>
 ```
