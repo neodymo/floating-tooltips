@@ -17,7 +17,6 @@ const tooltipManager = (event) => {
             n.id = "tooltip";
             n.textContent = attr.text;
             n.style.opacity = 1;
-            n.addEventListener("mouseover", document.getElementById(""))
         }
         let posX = event.pageX - (n.offsetWidth * (event.pageX / document.documentElement.clientWidth));
         n.style.left = posX + "px";
